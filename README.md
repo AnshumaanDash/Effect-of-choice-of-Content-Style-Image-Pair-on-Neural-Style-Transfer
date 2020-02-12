@@ -1,5 +1,11 @@
 # NeuralStyleTransfer
-Neural Style Transfer using PyTorch made simple
+<br>
+
+- <b>This project experiments with the choice of Style Image for effective Neural Style Transfer.</b>
+
+- <b>The results show that the Content and Style Images need to be semantically similar for the pre-trained weights to effectively generate a style transferred image.</b>
+
+- <b>Webinar explaining this:</b> https://youtu.be/PqBhVeCGTYE 
 
 ### What if Picasso painted me
 

@@ -7,6 +7,8 @@
 
 - <b>Webinar explaining this:</b> https://youtu.be/PqBhVeCGTYE 
 
+<br>
+
 ### 1. What if Picasso painted me
 
 #### Style Image:

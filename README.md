@@ -1,4 +1,4 @@
-# NeuralStyleTransfer
+# Effect of choice of Content-Style Image Pair on Neural Style Transfer
 <br>
 
 - <b>This project experiments with the choice of Style Image for effective Neural Style Transfer.</b>
